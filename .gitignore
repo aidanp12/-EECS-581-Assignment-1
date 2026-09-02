@@ -1,0 +1,5 @@
+# Visual C++ build outputs
+*.exe
+*.ilk
+*.obj
+*.pdb
